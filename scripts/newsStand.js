@@ -418,6 +418,10 @@ const clickSetArea = () => {
   });
 };
 
+$('#NM_THEME_CATE_GROUPS a').on('click', (evt) => {
+  evt.preventDefault();
+})
+
 clickSetArea();
 clickSortArea();
 clickSubscribe();

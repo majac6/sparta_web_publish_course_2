@@ -8,7 +8,7 @@ const $sform = $("#sform");
 // input 선언
 const $input = $("input#query");
 // .option 선언
-const $option = $('.option');
+const $option = $('#search .option');
 // kwd_lst 선언 (최근 검색어 ul)
 const $kwd_lst = $('.kwd_lst');
 // autoFrame 선언(최근검색어 창)

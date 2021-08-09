@@ -178,7 +178,7 @@
   border-top: 1px solid #e4e8eb;
   -webkit-box-shadow: 0 4px 4px 0 rgb(0 0 0 / 12%);
   box-shadow: 0 4px 4px 0 rgb(0 0 0 / 12%);
-  z-index: 2;
+  z-index: 100;
 }
 
 #gnb.ly_open .ly_service {
