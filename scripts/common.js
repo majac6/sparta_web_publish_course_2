@@ -296,6 +296,7 @@ plusDigitalSwiper = new Swiper("#contents_productAdPlus .plusDigitalSwiper", {
   // loop: true,
   spaceBetween: 10,
   navigation: {
+    disabledClass: "none",
     nextEl: "#contents_productAdPlus .shop_digital .btn_next",
     prevEl: "#contents_productAdPlus .shop_digital .btn_prev",
   },
